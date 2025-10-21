@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it."
+title: "BraceExtraction"
+abstract: "Software to extract and compile BRACE tasks into tidy tables with CSV export."
+repository-code: "https://github.com/BHPDataSci/BraceExtraction"
+url: "https://github.com/BHPDataSci/BraceExtraction"
+
+authors:
+  - family-names: "Dastgheyb"
+    given-names: "Raha"
+    affiliation: "Department of Neurology, Johns Hopkins University"
+    orcid: "https://orcid.org/0000-0002-4992-711X"
+  # Optionally credit an org too:
+   - name: "BHPDataSci"
+
+preferred-citation:
+  type: software
+  title: "BraceExtraction"
+  authors:
+    - family-names: "Dastgheyb"
+      given-names: "Raha"
+      orcid: "https://orcid.org/0000-0002-4992-711X"
+   - name: "BHPDataSci"
+  url: "https://github.com/BHPDataSci/BraceExtraction"
